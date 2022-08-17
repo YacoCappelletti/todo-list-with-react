@@ -1,0 +1,29 @@
+
+body{
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2015/10/14/do-morehow-i-remind-myself-to-stay-productive-when-i-startup-my-day._.jpg') ;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-position: center;
+    overflow: hidden;
+    
+}
+
+.list-item-container{
+    overflow:auto;
+}
+
+.list-item-container::-webkit-scrollbar{
+    width: 5px;
+}
+.list-item-container::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 255,255, 0.2);
+    border-radius: 5px;
+    height: 5px;
+}
+
+.done{
+    color: rgb(159, 161, 165);
+    background-color:rgb(220, 222, 227) ;
+    
+    
+}
