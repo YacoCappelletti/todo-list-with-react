@@ -5,7 +5,7 @@ A todo list i made for learn some React basic concepts.
 ## Description
 
 A simple todo list. The functionality is quite simple: you can write tasks, which are then stored in local storage. Afterwards, you have the option to mark them as completed or delete them.
-![Todo List]("./public/TodoList.png")
+![Screenshoot]("./public/TodoList.png")
 
 ## Getting Started
 
