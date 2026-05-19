@@ -1,27 +1,22 @@
-# Todo List with React
+# Todo List App
 
-Frontend project for practicing React development concepts.
+A clean, functional React todo list application with add, edit, delete, and filter functionality.
 
-## 🛠️ Stack
+## ✨ Features
+- Add, edit, and delete tasks
+- Mark tasks as complete (toggle)
+- Filter by status: all, active, completed
+- Item count and clear-completed shortcut
+- Persistent state via localStorage
 
-- React (functional components + hooks)
-- JavaScript / TypeScript
-- CSS / Redux
-- Vite / Create React App
+## 🛠️ Tech Stack
+React, JavaScript/TypeScript, CSS3, Vite.
 
-## 🎯 Learning Objectives
-
-- Functional components and props
-- State management (useState, useEffect, useContext)
-- Error handling and data fetching
-- Routing if applicable
-
-## ▶️ Run
-
+## ▶️ Running it locally
 ```bash
-npm install && npm start
+npm install && npm run dev
 ```
 
 ---
 
-> Frontend project by Yaco Cappelletti
+> Project by Yaco Cappelletti
