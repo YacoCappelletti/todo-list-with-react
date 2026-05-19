@@ -1,28 +1,27 @@
-# TODO List
+# Todo List With React
 
-A todo list i made for learn some React basic concepts.
+Proyecto frontend para practicar conceptos de desarrollo web con React.
 
-## Description
+## 🛠️ Stack
 
-A simple todo list. The functionality is quite simple: you can write tasks, which are then stored in local storage. Afterwards, you have the option to mark them as completed or delete them.
-![Screenshot](./public/screencapture.png)
+- React (functional components + hooks)
+- JavaScript / TypeScript
+- CSS / Redux
+- Vite / Create React App
 
-## Getting Started
+## 🎯 Objetivos de Aprendizaje
 
-Just clone the repository and run the commands:
+- Componentes funcionales y props
+- Estado local y global (useState, useEffect)
+- Manejo de errores y data fetching
+- Routing si aplica
 
+## ▶️ Cómo Ejecutar
+
+```bash
+npm install && npm start
 ```
-npm install
-```
 
-and
+---
 
-```
-npm run dev
-```
-
-## Author
-
-[Yaco Cappelletti Arias](https://www.linkedin.com/in/yaco-cappelletti-arias/)
-
-
+> Proyecto educativo frontend | **Yaco Cappelletti** 🇦🇷→🇪🇸
