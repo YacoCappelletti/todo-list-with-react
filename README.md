@@ -1,6 +1,6 @@
-# Todo List With React
+# Todo List with React
 
-Proyecto frontend para practicar conceptos de desarrollo web con React.
+Frontend project for practicing React development concepts.
 
 ## 🛠️ Stack
 
@@ -9,14 +9,14 @@ Proyecto frontend para practicar conceptos de desarrollo web con React.
 - CSS / Redux
 - Vite / Create React App
 
-## 🎯 Objetivos de Aprendizaje
+## 🎯 Learning Objectives
 
-- Componentes funcionales y props
-- Estado local y global (useState, useEffect)
-- Manejo de errores y data fetching
-- Routing si aplica
+- Functional components and props
+- State management (useState, useEffect, useContext)
+- Error handling and data fetching
+- Routing if applicable
 
-## ▶️ Cómo Ejecutar
+## ▶️ Run
 
 ```bash
 npm install && npm start
@@ -24,4 +24,4 @@ npm install && npm start
 
 ---
 
-> Proyecto educativo frontend | **Yaco Cappelletti** 🇦🇷→🇪🇸
+> Frontend project by Yaco Cappelletti
